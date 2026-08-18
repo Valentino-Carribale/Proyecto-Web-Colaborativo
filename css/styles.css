@@ -1,0 +1,14 @@
+* {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    color: #373435;
+}
+
+.card {
+    width: 50vw;
+}
+
+img {
+    border: 3px solid #373435;
+    width: 50vw;
+}
